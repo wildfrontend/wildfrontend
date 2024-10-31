@@ -1,22 +1,7 @@
-## Hi there 👋
+## Profile
+- [Leetcode](https://leetcode.com/u/Aries0420/)
+- [CakeResume](https://www.cake.me/me/chen-louis)
+- [LinkedIn](https://www.linkedin.com/in/ye-cheng-luo-704b97189/)
 
-<!--
-**wildfrontend/wildfrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Leetcode
-https://leetcode.com/u/Aries0420/
-
-## Resume
-https://www.cake.me/me/chen-louis
