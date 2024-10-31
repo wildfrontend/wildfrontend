@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Leetcode
 https://leetcode.com/u/Aries0420/
+
+## Resume
+https://www.cake.me/me/chen-louis
