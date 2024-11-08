@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **louis0420tw@gmail.com**
 
-- 📄 Know about my experiences [https://www.cake.me/me/chen-louis](https://www.cake.me/me/chen-louis)
+- 📄 Know about my experiences [https://www.cake.me/me/louis.luo](https://www.cake.me/me/louis.luo)
 
 - ⚡ Fun fact **I like food**
 
