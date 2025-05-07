@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [Gosugamers](https://www.gosugamers.net/)
-
+- 🔭 I’m currently working on [Dogcatstar (汪喵星球)](https://www.dogcatstar.com/)
+  
+- 💼 Previously worked at [GosuGamers](https://www.gosugamers.net/), focusing on gaming content platforms
+  
 - 📝 I regularly write articles on [https://matters.news/@louis0420](https://matters.news/@louis0420)
 
 - 💬 Ask me about **React**
