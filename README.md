@@ -5,7 +5,7 @@
   
 - 💼 Previously worked at [GosuGamers](https://www.gosugamers.net/), focusing on gaming content platforms
   
-- 📝 I regularly write articles on [https://matters.news/@louis0420](https://matters.news/@louis0420)
+- 📝 I regularly write articles on [My Notion Space](https://www.notion.so/1c8e1af1e0c58000af9af1a06e5f30e2?v=1c8e1af1e0c580609ad0000c9301a649&source=copy_link)
 
 - 💬 Ask me about **React**
 
